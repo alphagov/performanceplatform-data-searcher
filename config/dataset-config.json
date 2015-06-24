@@ -1,0 +1,14 @@
+[
+    {
+        "datagroup": "dbd-service-assessment", 
+        "datatype": "monthly-review-totals", 
+        "url": "https://www.performance.service.gov.uk/data/dbd-service-assessment/monthly-review-totals", 
+        "published": true
+    },
+    {
+        "datagroup": "dbd-service-assessment", 
+        "datatype": "service-assessment-outcomes", 
+        "url": "https://www.performance.service.gov.uk/data/dbd-service-assessment/service-assessment-outcomes", 
+        "published": true
+    }
+]
